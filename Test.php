@@ -1,3 +1,3 @@
 <?php
-echo "Testing my page is working.";
+echo "My test page is working.";
 ?>
