@@ -8,8 +8,8 @@
 
 <form action="insert.php" method="post">
 
-    <input type="text" name="firstname" placeholder="First Name"><br>
-    <input type="text" name="lastname" placeholder="Last Name"><br>
+    <input type="text" name="firstname" placeholder="First Name"><br><br>
+    <input type="text" name="lastname" placeholder="Last Name"><br><br>
     <input type="submit" name="Submit">
 
 </form>
