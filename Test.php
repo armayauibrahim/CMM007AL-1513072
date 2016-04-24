@@ -5,21 +5,7 @@
     <title>My Test Page</title>
 </head>
 <body>
-<h3>Please Sign in below</h3>
-<form action="insert.php" method="post">
-
-    <input type="text" name="firstname" placeholder="First Name"><br><br>
-    <input type="text" name="lastname" placeholder="Last Name"><br><br>
-    <input type="submit" name="Submit">
-
-</form>
+<h3>Its alive</h3>
 
 </body>
 </html>
-
-
-
-
-<?php
-echo "My test page is working.";
-?>
