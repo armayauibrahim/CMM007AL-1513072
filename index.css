@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+    width: 69%;
+    height: 100%;
+    border-style: solid;
+}
+#top {
+    width: 100%;
+    border: 2px;
+    padding-left: 5px;
+}
+
+li {
+    float: left;
+
+}
+a {
+    display: block;
+    padding: 9px;
+    text-decoration: none;
+    background-color:lightgoldenrodyellow;
+
+}
+#para{
+    width: 10%
+    float: left;
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+ img{
+    width:40%;
+    margin: 2%;
+ float:right;}
+
+
+
+
+
